@@ -99,6 +99,11 @@ window.onload = () =>{
             title: 'Toki Tsukasadoru Juuni no Meiyaku',
             song_path: 'src/sg ending.mp3',
             img_path: 'src/sg ending.jpg',
+        },
+        {
+            title: 'Lyra (Zwei)',
+            song_path: 'src/lyra.mp3',
+            img_path: 'src/lyra.jpg',
         }
     ]
 
