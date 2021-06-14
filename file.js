@@ -104,6 +104,11 @@ window.onload = () =>{
             title: 'Lyra (Zwei)',
             song_path: 'src/lyra.mp3',
             img_path: 'src/lyra.jpg',
+        },
+        {
+            title: 'Another Heaven',
+            song_path: 'src/another heaven.mp3',
+            img_path: 'src/another heaven.jpg',
         }
     ]
 
